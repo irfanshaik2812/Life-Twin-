@@ -1,6 +1,8 @@
 # 🧬 LifeTwin AI
 ### Your Body. Your Data. My Intelligence.
 
+ **Live Demo:** Experience Life-Twin AI here: https://life-twin.onrender.com/
+
 **LifeTwin AI** is an AI-powered personal health intelligence platform designed to transform health data into meaningful insights. By combining wearable data, IoT telemetry, lifestyle tracking, interactive 3D digital-twin visualizations, and AI-assisted analysis, LifeTwin AI helps users better understand their bodies and make informed lifestyle decisions.
 
 ---
